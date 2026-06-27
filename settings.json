@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "ane lagata enna epa oya",
+    "username": "varen",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "stormvalesmp.aternos.me",
     "port": 13302,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
