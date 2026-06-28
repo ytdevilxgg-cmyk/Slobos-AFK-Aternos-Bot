@@ -27,13 +27,13 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
+      "enabled": false,
+      "repeat": false,
       "repeat-delay": 120,
       "messages": [
-        "puhul ponnaya",
-        "Uba kakkayek ne bn",
-        "server eke puka dena ponnayo godaai"
+        "",
+        "",
+        ""
       ]
     },
     "chat-log": true,
@@ -61,7 +61,7 @@
     "avoidMobs": true,
     "combat": true,
     "beds": true,
-    "chat": true,
+    "chat": false,
     "console-commands": true
   },
   "combat": {
