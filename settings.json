@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "stormvalesmp.aternos.me",
+    "ip": "stormvalesmp.aternos.me:13302",
     "port": 13302,
     "version": "1.21.11",
     "try-creative": false
